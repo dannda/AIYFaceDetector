@@ -4,7 +4,11 @@ Los requerimientos mínimos para esta aplicación vienen incluidos dentro del Go
 Una vez ensamblado el kit, siguiendo las instrucciones de [ensamblaje](https://aiyprojects.withgoogle.com/vision/#assembly-guide) deberías ser capaz de correr la aplicación de detección de rostros.
 
 El kit puede manipularse de dos formas:
-  1.  Por conexión via SSH a través del add-on Secure Shel Extension **solamente** disponible para Google Chrome.
+  1.  Por conexión via SSH a través del add-on Secure Shell Extension **solamente** disponible para Google Chrome.
+  
+  //poner una liga, un ejemplo, sobre como hacerlo
+  
+  
   2.  A través de monitor, teclado y mouse. Para este caso se necesitan:
   - Adaptador miniHDMI-HDMI
   - Adaptador micro USB-USB y un USB hub
